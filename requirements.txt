@@ -1,0 +1,5 @@
+flask
+ebooklib
+beautifulsoup4
+reportlab
+gunicorn
